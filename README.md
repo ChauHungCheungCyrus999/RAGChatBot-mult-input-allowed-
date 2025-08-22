@@ -38,8 +38,7 @@ An interactive chatbot powered by Streamlit and Retrieval-Augmented Generation (
 
 ## Example Screenshot
 
-*(Insert screenshot of UI here)*
-(ragchatbot.png)
+![](ragchatbot.png)
 ---
 
 ## Configuration Notes
